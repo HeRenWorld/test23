@@ -2,6 +2,8 @@ rm(list = ls())
 cat("\014")
 Sys.setenv(LANG = "en")
 
+test test
+
 # Prob.1
 # 1.d
 N <- 12
