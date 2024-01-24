@@ -3,6 +3,7 @@ cat("\014")
 Sys.setenv(LANG = "en")
 
 test test
+test 2
 
 # Prob.1
 # 1.d
